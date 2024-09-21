@@ -48,7 +48,6 @@ An interactive display showcasing live Pace University athletics updates and 3D 
 > "Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding." – William Paul Thurston
 
 ## 💬 Let's Connect!
-- **LinkedIn**: [Michael Del Vecchio](www.linkedin.com/in/michael-del-vecchio-4b630b271)
 - **Email**: michael.a.delvecchio@pace.edu, michael.delvecchio11@gmail.com
 
 ![Contact Badge](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
