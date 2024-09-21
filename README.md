@@ -1,7 +1,5 @@
 # 👋 Welcome to My Github – I'm Michael Del Vecchio
 
-![Banner](https://raw.githubusercontent.com/Mikanical/readme-assets/refs/heads/main/Github%20Footer.webp?token=GHSAT0AAAAAACX2PVM4P6KMBY4NXI6HQTHSZXO3VFA)
-
 I'm a **Computer Science** and **Mathematics** enthusiast currently pursuing a dual major at **Pace University**. My journey is all about merging logical precision with creative problem-solving to tackle challenges that excite me.
 
 ## 🔭 What I'm All About
