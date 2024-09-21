@@ -18,27 +18,28 @@ I'm a **Computer Science** and **Mathematics** enthusiast currently pursuing a d
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/java" width="48" height="48" alt="Java" />
+      <img src="https://cdn.simpleicons.org/java/007396" width="48" height="48" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/react" width="48" height="48" alt="React" />
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="48" height="48" alt="React" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/csharp" width="48" height="48" alt="C#" />
+      <img src="https://cdn.simpleicons.org/csharp/239120" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/vscode" width="48" height="48" alt="VSCode" />
+      <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="48" height="48" alt="VSCode" />
       <br>VSCode
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.simpleicons.org/github" width="48" height="48" alt="GitHub" />
+      <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
   </tr>
 </table>
+
 
 ## 🎨 Featured Project
 ### Learning Commons Dashboard 
