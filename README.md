@@ -55,5 +55,3 @@ An interactive display showcasing live Pace University athletics updates and 3D 
 
 ---
 
-![Footer](https://raw.githubusercontent.com/Mikanical/readme-assets/refs/heads/main/Github%20Banner.webp?token=GHSAT0AAAAAACX2PVM4TDGBK3ENMQFNZRGGZXO3UQA) 
-
