@@ -5,8 +5,7 @@
 I'm a **Computer Science** and **Mathematics** enthusiast currently pursuing a dual major at **Pace University**. My journey is all about merging logical precision with creative problem-solving to tackle challenges that excite me.
 
 ## 🔭 What I'm All About
-- 🔍 **Exploring**: Complex algorithms, data structures, and mathematical theories.
-- 💡 **Creating**: Interactive web applications, data-driven projects, and more.
+- 🔍 **Exploring**: Complex algorithms, data structures, mathematical theories, and the intersection between finance, computer science, and mathmematics.
 - 🎓 **Learning**: Continuously expanding my knowledge in full-stack development and machine learning.
 - 🌐 **Languages**: Fluent in **English** and proficient in **Mandarin (B1)**.
 
@@ -56,5 +55,5 @@ An interactive display showcasing live Pace University athletics updates and 3D 
 
 ---
 
-![Footer](https://user-images.githubusercontent.com/Mikanical/footer.png) <!-- Replace with your custom footer image URL -->
+![Footer](https://user-images.githubusercontent.com/Mikanical/footer.png) 
 
