@@ -44,11 +44,6 @@ I'm a **Computer Science** and **Mathematics** enthusiast currently pursuing a d
 ### Learning Commons Dashboard 
 An interactive display showcasing live Pace University athletics updates and 3D print jobs. Built with **React**, it's designed to inform and engage users in real time!
 
-## 🎯 Fun Facts About Me
-- 🎹 I'm a huge music enthusiast and can play the piano!
-- 🌱 Currently working on a personal website to showcase my journey.
-- 🌟 A big fan of hackathons – always looking to challenge myself.
-
 ## 📚 Favorite Quote
 > "Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding." – William Paul Thurston
 
